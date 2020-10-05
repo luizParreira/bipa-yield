@@ -3,3 +3,9 @@ node_modules
 #Buidler files
 cache
 artifacts
+.gitgnore
+.secret
+*.log
+.env
+
+/build
